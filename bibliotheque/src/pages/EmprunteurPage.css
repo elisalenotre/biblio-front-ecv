@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+.emprunteur-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #b5b5b5;
+    padding: 8px 16px;
+    border-radius: 4px;
+    margin: 10px;
+  }
+  
+  button:hover {
+    background-color: #828282;
+    color: #fff;
+  }
+  
+  h3 {
+    margin-top: 30px;
+    color: #333;
+  }
+  
+  ul {
+    margin-top: 20px;
+  }
+  

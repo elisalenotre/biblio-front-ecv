@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import './AuthPage.css';
 
 const AuthPage: React.FC = () => {
   const [role, setRole] = useState<string>('');
