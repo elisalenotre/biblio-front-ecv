@@ -1,6 +1,6 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FBFAF3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,20 +21,21 @@ body {
   }
   
   button {
-    background-color: #b5b5b5;
+    background-color: #FAF0D7;
     padding: 8px 16px;
     border-radius: 4px;
     margin: 10px;
   }
   
   button:hover {
-    background-color: #828282;
-    color: #fff;
+    background-color: #96AED1;
+    color: #FAF0D7;
   }
   
   h3 {
     margin-top: 30px;
-    color: #333;
+    color: #96AED1;
+    align-items: center;
   }
   
   ul {

@@ -1,6 +1,6 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FBFAF3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,26 +18,28 @@ body {
   
   h2 {
     margin: 10px;
+    color:#96AED1;
+    align-items: center;
   }
   
   input {
     padding: 8px;
     border-radius: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #F3F2E9;
     font-size: 16px;
     margin: 10px;
   }
   
   button {
-    background-color: #b5b5b5;
+    background-color: #FAF0D7;
     padding: 8px 16px;
     border-radius: 4px;
     margin: 10px;
   }
   
   button:hover {
-    background-color: #828282;
-    color: #fff;
+    background-color: #96AED1;
+    color: #FAF0D7;
   }
   
   ul {
